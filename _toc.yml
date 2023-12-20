@@ -1,0 +1,27 @@
+format: jb-book
+root: README.md
+options:
+  numbered: False
+chapters:
+  - file: book/april2022/april2022.md
+  - file: book/mai2022/mai2022.md
+  - file: book/juni2022/juni2022.md
+  - file: book/juli2022/juli2022.md
+  - file: book/august2022/august2022.md
+  - file: book/september2022/september2022.md
+  - file: book/oktober2022/oktober2022.md
+  - file: book/november2022/november2022.md
+  - file: book/dezember2022/dezember2022.md
+  - file: book/januar2023/januar2023.md
+  - file: book/februar2023/februar2023.md
+  - file: book/maerz2023/maerz2023.md
+  - file: book/april2023/april2023.md
+  - file: book/mai2023/mai2023.md
+  - file: book/juni2023/juni2023.md
+  - file: book/juli2023/juli2023.md
+  - file: book/august2023/august2023.md
+  - file: book/september2023/september2023.md
+  - file: book/oktober2023/oktober2023.md
+  - file: book/november2023/november2023.md
+  - file: book/dezember2023/dezember2023.md
+  - file: book/END.md

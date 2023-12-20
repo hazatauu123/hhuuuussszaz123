@@ -1,0 +1,9 @@
+title: Dili und Bani
+author: Dili und Bani
+only_build_toc_files: true
+execute:
+  execute_notebooks: off
+
+parse:
+  myst_enable_extensions:
+    - html_image
