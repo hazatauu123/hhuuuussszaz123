@@ -1,3 +1,3 @@
 build:
-	@echo "Building Jupyter Book"
+	@echo "Building JJupyter Book"
 	jupyter-book build .
