@@ -5,3 +5,4 @@ build:
 publish:
 	@echo "Publishing Jupyter Book"
 	ghp-import -n -p -f _build/html
+
