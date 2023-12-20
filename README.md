@@ -1,4 +1,4 @@
-# Dili & Bani - Fotoalbum test
+# Dili & Bani - Fotoalbum
 
 Dieses Album hält die vielen schönen Momente fest, die wir in den ganzen Monaten erlebt haben. Du liebst es, alte Fotos anzuschauen, um die Gefühle von den Momenten zu erleben. 
 
