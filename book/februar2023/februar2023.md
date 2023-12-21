@@ -91,4 +91,5 @@ Sushi
     :scale: 20%
     :align: center
   ```
+  Minigolf 
 </div>
